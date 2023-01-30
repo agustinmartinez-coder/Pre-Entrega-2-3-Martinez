@@ -1,0 +1,13 @@
+@mixin main{
+    margin: auto;
+    padding: 30px;
+}
+@mixin ul{
+    li{
+        a{
+            list-style-type: none;
+            text-decoration: double;
+        }
+    }
+}
+

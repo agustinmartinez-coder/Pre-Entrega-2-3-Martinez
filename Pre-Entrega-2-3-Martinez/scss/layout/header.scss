@@ -1,0 +1,11 @@
+header{ 
+    background-color: rgba($color: #7909faea, $alpha: 1.0);
+    h1{
+        color: aquamarine;
+        font-size: 50px;
+        font-family: $tipografia-principal;
+    }
+    .p{
+        font-family: $tipografia-secundaria;
+    }
+}
